@@ -1,25 +1,13 @@
 {
-  "name": "miracle-tiktok",
-  "owner": {
-    "name": "shadxwqq"
-  },
   "plugins": [
     {
       "name": "miracle-tiktok",
       "version": "0.1.0",
-      "description": "UI panel for managing MargyT TikTok mod settings: region, colors, and themes",
-      "license": "MIT",
-      "author": {
-        "name": "Claude"
-      },
-      "source": {
-        "type": "github",
-        "owner": "shadxwqq",
-        "repo": "miracle-tiktok"
-      }
+      "description": "UI panel for managing MargyT TikTok mod settings: region, colors, and themes"
     }
   ]
 }
+
 
 
 
