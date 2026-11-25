@@ -11,9 +11,14 @@
       "license": "MIT",
       "author": {
         "name": "Claude"
+      },
+      "source": {
+        "url": "https://github.com/shadxwqq/miracle-tiktok",
+        "path": "."
       }
     }
   ]
 }
+
 
 
