@@ -11,10 +11,16 @@
       "license": "MIT",
       "author": {
         "name": "Claude"
+      },
+      "source": {
+        "type": "github",
+        "owner": "shadxwqq",
+        "repo": "miracle-tiktok"
       }
     }
   ]
 }
+
 
 
 
