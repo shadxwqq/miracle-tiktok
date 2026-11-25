@@ -1,6 +1,7 @@
 {
+  "name": "miracle-tiktok",
   "owner": {
-    "login": "shadxwqq"
+    "name": "shadxwqq"
   },
   "plugins": [
     {
@@ -14,4 +15,5 @@
     }
   ]
 }
+
 
